@@ -192,3 +192,8 @@ Usage of withdrawer:
 - Use `--gas-price` for legacy transactions OR `--max-fee-per-gas` and `--max-priority-fee` for EIP-1559 transactions (not both)
 - The `--gas-multiplier` flag multiplies the estimated gas by the specified factor (e.g., 1.1 for 10% buffer)
 - The `--max-gas-price` flag acts as a safety cap and will abort the transaction if the gas price exceeds this value
+
+
+## Parcours francais
+
+Lecture pedagogique en francais du code source de ce depot, chapitre par chapitre, avec sommaire : voir docs/fr/README.md.
